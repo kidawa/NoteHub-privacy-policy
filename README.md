@@ -1,4 +1,4 @@
-# NoteHub-privacy-policy
+# NoteHub's privacy policy
 
 
 Privacy Policy
